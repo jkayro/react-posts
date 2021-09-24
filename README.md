@@ -1,5 +1,5 @@
-# React GRID / CSS3
+# REACT POSTS
 
-React grid layout com CSS puro.
+Listagem de posts com fotos da API JSONPlaceholder. Modelo de organização de componentes em pastas, separação das pages dos compoentes, paginação, search, etc.
 
 .
